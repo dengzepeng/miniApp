@@ -1,0 +1,4 @@
+<!--pages/userInfo/userInfo.wxml-->
+<scroll-view scroll-y="true" style="height: 200px;" bindscrolltoupper="upper" bindscrolltolower="lower">
+
+</scroll-view>
